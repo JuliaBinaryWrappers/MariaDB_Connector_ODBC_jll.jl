@@ -1,0 +1,60 @@
+[[MariaDB_Connector_ODBC]]
+arch = "x86_64"
+git-tree-sha1 = "54fa77b8a8e78d18abb661cbae6eb72b3b913bb5"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "73d2a723c5f5281ec559387ca3ba63599c0817096c5e0336af0657b91de03c3a"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.x86_64-linux-musl.tar.gz"
+[[MariaDB_Connector_ODBC]]
+arch = "x86_64"
+git-tree-sha1 = "f0c7a34495d2e6512ecfda5df8e3cdbd7b9eba7d"
+os = "windows"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "3be4faf1b29d59e3fdc4fe7184c4ae9b056056595acf1c7a4ba01275d2b8c574"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.x86_64-w64-mingw32.tar.gz"
+[[MariaDB_Connector_ODBC]]
+arch = "x86_64"
+git-tree-sha1 = "eda71e1a3284c2c4e60a2c2366c797fb1dea1f14"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "e53aafe56828ff2bc6a692e91e9c4c9479c80561d7432b164acbabe578dd62b4"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.x86_64-linux-gnu.tar.gz"
+[[MariaDB_Connector_ODBC]]
+arch = "i686"
+git-tree-sha1 = "e492c10a0bebd1ba4176bedf024b6d46c746db75"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "4a8503a3defd5ee2c09315a38e53d8a1a0ff4c8490d85f5811c83439375febee"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.i686-linux-gnu.tar.gz"
+[[MariaDB_Connector_ODBC]]
+arch = "x86_64"
+git-tree-sha1 = "5fd373168ebf848e4f873cb497d120b0fffd14fb"
+os = "macos"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "9c446f01a969ff9443f2f2c088f6d7cfd31fd3fa982491c4b17244e191635078"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.x86_64-apple-darwin14.tar.gz"
+[[MariaDB_Connector_ODBC]]
+arch = "i686"
+git-tree-sha1 = "adabaf8ece2564f32cb7c172b9d6cbf89e251b11"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "03110986ebf200719e2eff5b3c5ff3d22d19e908e0c921b5c4adb41dcd876500"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.i686-linux-musl.tar.gz"
+[[MariaDB_Connector_ODBC]]
+arch = "i686"
+git-tree-sha1 = "270832c074fe6ccf888f07a9983234d16d00f54e"
+os = "windows"
+
+    [[MariaDB_Connector_ODBC.download]]
+    sha256 = "7009f4a76afdecd7df9e7285d18611bcabe42470430f7587f06c253e744c0457"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_ODBC_jll.jl/releases/download/MariaDB_Connector_ODBC-v3.1.7+0/MariaDB_Connector_ODBC.v3.1.7.i686-w64-mingw32.tar.gz"
