@@ -1,15 +1,18 @@
 name = "MariaDB_Connector_ODBC_jll"
 uuid = "1124d457-72a3-5205-9757-36a127c7d0f8"
-version = "3.1.7+1"
+version = "3.1.9+0"
 
 [deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 OpenSSL_jll = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 unixODBC_jll = "1841a5aa-d9e2-579c-8226-32ed2af93ab1"
 Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 iODBC_jll = "80337aba-e645-5151-a517-44b13a626b79"
 
 [compat]
-julia = "1.0"
+JLLWrappers = "1.2.0"
+julia = "1.6"
